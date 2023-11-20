@@ -1,0 +1,97 @@
+OS 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 02D3-4368입니다.
+C:.
+│  .gitignore
+│  1.txt
+│  outtree.txt
+│  treemainOutPut.txt
+│  
+├─g
+│      gmain.html
+│      
+├─review_main
+│      main.html
+│      
+├─semiproject
+│  │  .classpath
+│  │  .gitignore
+│  │  .project
+│  │  
+│  ├─.settings
+│  │      .jsdtscope
+│  │      org.eclipse.jdt.core.prefs
+│  │      org.eclipse.wst.common.component
+│  │      org.eclipse.wst.common.project.facet.core.xml
+│  │      org.eclipse.wst.jsdt.ui.superType.container
+│  │      org.eclipse.wst.jsdt.ui.superType.name
+│  │      
+│  ├─build
+│  │  └─classes
+│  │      └─com
+│  │          └─kh
+│  │              └─semi
+│  │                      Review.class
+│  │                      ReviewDAO.class
+│  │                      ReviewDeleteServlet.class
+│  │                      ReviewPostServlet.class
+│  │                      ReviewServlet.class
+│  │                      ReviewUpdateServlet.class
+│  │                      
+│  ├─src
+│  │  └─main
+│  │      ├─java
+│  │      │  └─com
+│  │      │      └─kh
+│  │      │          └─semi
+│  │      │                  Review.java
+│  │      │                  ReviewDAO.java
+│  │      │                  ReviewDeleteServlet.java
+│  │      │                  ReviewPostServlet.java
+│  │      │                  ReviewServlet.java
+│  │      │                  ReviewUpdateServlet.java
+│  │      │                  
+│  │      └─webapp
+│  │          │  reviewDelete.jsp
+│  │          │  reviewDetail.jsp
+│  │          │  reviewList.jsp
+│  │          │  reviewPost.jsp
+│  │          │  reviewUpdate.jsp
+│  │          │  
+│  │          ├─css
+│  │          │      reviewDelete.css
+│  │          │      reviewDetail.css
+│  │          │      reviewList.css
+│  │          │      reviewPost.css
+│  │          │      reviewUpdate.css
+│  │          │      
+│  │          ├─img
+│  │          │      done.jpg
+│  │          │      gajidori.png
+│  │          │      goToMain.jpg
+│  │          │      lose.jpg
+│  │          │      
+│  │          ├─META-INF
+│  │          │      MANIFEST.MF
+│  │          │      
+│  │          └─WEB-INF
+│  │              └─lib
+│  │                      ojdbc11.jar
+│  │                      
+│  └─설명작성란
+│          Apache Tomcat Servlet JSP 등 설명 작성.txt
+│          http 통신 코드.txt
+│          
+└─Servers
+    │  .project
+    │  
+    ├─.settings
+    │      org.eclipse.wst.server.core.prefs
+    │      
+    └─Tomcat v9.0 Server at localhost-config
+            catalina.policy
+            catalina.properties
+            context.xml
+            server.xml
+            tomcat-users.xml
+            web.xml
+            
