@@ -1,0 +1,13 @@
+#포트번호
+server.port=8000
+#DB 연결 설정
+spring.datasource.url=jdbc.oracle.thin:@//localhost:1521/XE
+spring.datasource.userName=KHCAFE
+spring.datasource.password=KH1234
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+
+#템플릿 설정
+spring.thymeleaf.prefix=classpath:/templates.
+spring.thymeleaf.suffix=.html
+spring.resource.static-locations=classpath:/static
+spring.jpa.show-sql=true
